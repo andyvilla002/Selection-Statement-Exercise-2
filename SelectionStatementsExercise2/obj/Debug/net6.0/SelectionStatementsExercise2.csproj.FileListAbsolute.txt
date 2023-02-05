@@ -1,0 +1,15 @@
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.csproj.AssemblyReference.cache
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.AssemblyInfoInputs.cache
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.AssemblyInfo.cs
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.csproj.CoreCompileInputs.cache
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.deps.json
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.runtimeconfig.json
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.dll
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.pdb
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.dll
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/refint/SelectionStatementsExercise2.dll
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.pdb
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.genruntimeconfig.cache
+/Users/andyvillalobos/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/ref/SelectionStatementsExercise2.dll
